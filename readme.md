@@ -25,6 +25,9 @@ To install the packages used,
 
 npm install
 
+
 To get the project up and running,
 
+node index.js
+nodemon index.js
 npx nodemon index.js
