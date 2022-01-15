@@ -18,3 +18,13 @@ JavaScript is a scripting language that helps create interactive web pages. Type
 
 
 When people use javascript developers have learned that javascript can also be used as a server-side programming language. As JS grew, the codes became complex and heavy. Therefore, JavaScript was unable to fully meet the requirements of an object-oriented programming language. This situation prevented JS from being successful at the enterprise level as a server-side technology. Then TypeScript was developed by the development team to solve this problem. 
+
+Booting up the server with Node.js:
+
+To install the packages used,
+
+npm install
+
+To get the project up and running,
+
+npx nodemon index.js
